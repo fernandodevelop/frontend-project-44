@@ -2,8 +2,10 @@
 [![Actions Status](https://github.com/fernandodevelop/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/fernandodevelop/frontend-project-44/actions)
 
 
-Здесь должна быть анексема или как ее https://asciinema.org/a/3ju1M1Ke3verCshuBdrn2mSsG
+EVEN  https://asciinema.org/a/3ju1M1Ke3verCshuBdrn2mSsG
 
-Вторая анексема https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
+CALC https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
 
-Третья анексема https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
+GCD https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
+
+Progression https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
