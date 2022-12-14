@@ -22,7 +22,7 @@ const generateProgressionString = () => {
   // запоминаем ответ на вопрос
   uknown = arr[position];
   // и "маскируем" нужную позицию
-  arr[position] = '...';
+  arr[position] = '..';
   return arr.join(' ');
 };
 
