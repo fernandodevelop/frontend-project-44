@@ -7,6 +7,7 @@ import { greeting, endGame } from '../src/index.js';
 greeting();
 
 const name = queryName();
+console.log('Answer "yes" if the number is even, otherwise answer "no".');
 const isWon = evenGame();
 
 endGame(isWon, name);

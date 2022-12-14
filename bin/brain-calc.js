@@ -7,6 +7,7 @@ import { greeting, endGame } from '../src/index.js';
 greeting();
 
 const name = queryName();
+console.log('What is the result of the expression?');
 const isWon = calcGame();
 
 endGame(isWon, name);
