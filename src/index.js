@@ -3,7 +3,7 @@ import readlineSync from 'readline-sync';
 const greeting = () => console.log('Welcome to the Brain Games!');
 const endGame = (isWon, name) => {
   if (isWon) {
-    console.log(`Congratulations, ${name}`);
+    console.log(`Congratulations, ${name}!`);
   } else {
     console.log(`Let's try again, ${name}`);
   }
