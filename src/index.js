@@ -10,7 +10,6 @@ const endGame = (isWon, name) => {
 };
 
 const gameLoop = (generateFunc, anserFunc) => {
-  console.log('Answer "yes" if the number is even, otherwise answer "no".');
   // eslint-disable-next-line no-plusplus
   for (let i = 0; i < 3; i++) {
     const question = generateFunc();
