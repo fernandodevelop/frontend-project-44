@@ -5,7 +5,7 @@ const endGame = (isWon, name) => {
   if (isWon) {
     console.log(`Congratulations, ${name}!`);
   } else {
-    console.log(`Let's try again, ${name}`);
+    console.log(`Let's try again, ${name}!`);
   }
 };
 
