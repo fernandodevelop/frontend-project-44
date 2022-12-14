@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import queryName from '../src/cli.js';
+import { greeting } from '../src/index.js';
 
-console.log('Welcome to the Brain Games!');
+greeting();
 queryName();

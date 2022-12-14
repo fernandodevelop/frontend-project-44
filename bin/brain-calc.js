@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 
 import queryName from '../src/cli.js';
-import evenGame from '../games/even.js';
+import calcGame from '../games/calc.js';
 import { greeting, endGame } from '../src/index.js';
 
 greeting();
 
 const name = queryName();
-const isWon = evenGame();
+const isWon = calcGame();
 
 endGame(isWon, name);
