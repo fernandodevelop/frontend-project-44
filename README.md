@@ -9,3 +9,5 @@ CALC https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
 GCD https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
 
 Progression https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
+
+Prime https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7

@@ -19,8 +19,7 @@ const gameLoop = (generateFunc, anserFunc) => {
 
     const correctAnswer = anserFunc(question);
 
-    // eslint-disable-next-line eqeqeq
-    if (correctAnswer == anser) {
+    if (correctAnswer.toString() === anser.toString()) {
       console.log('Correct!');
     } else {
       console.log(`${anser} is wrong answer ;(. Correct answer was ${correctAnswer}`);
